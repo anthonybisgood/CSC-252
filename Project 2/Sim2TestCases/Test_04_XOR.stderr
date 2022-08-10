@@ -1,0 +1,2 @@
+Error: Could not find or load main class Test_04_XOR
+Caused by: java.lang.ClassNotFoundException: Test_04_XOR

@@ -1,0 +1,3 @@
+sll
+bne 
+andi

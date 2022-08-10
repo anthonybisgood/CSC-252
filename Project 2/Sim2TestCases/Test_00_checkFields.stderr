@@ -1,0 +1,2 @@
+Error: Could not find or load main class Test_00_checkFields
+Caused by: java.lang.ClassNotFoundException: Test_00_checkFields
